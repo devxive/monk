@@ -4,6 +4,7 @@ _gh_pages/*
 
 .idea/*
 .svn/*
+src/*
 src/ai/*
 src/svg/*
 
