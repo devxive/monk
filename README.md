@@ -1,5 +1,5 @@
 #[Monk Appicon font v1.0.0 alpha](http://devxive.com/monk)
-### The iconic font, designed specifically for apps that have been built with bootstrap
+#### The iconic font, designed specifically for apps that have been built with bootstrap
 
 Monk Appicon font is a full suite of over 300 ready to use pictographic icons/scalable vector graphics for use in webapps, websites or any other of your projects. All Icons are designed on a base of 256 x 256 Pixels.
 
