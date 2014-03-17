@@ -1,0 +1,24 @@
+{
+    "name": "devXive/monk",
+    "description": "The iconic font, designed specifically for apps that have been built with bootstrap",
+    "keywords": ["monk", "font", "appfont", "icon", "iconfont", "bootstrap", "nawala", "nrdk"],
+    "homepage": "http://devxive.com/monk",
+    "authors": [
+        {
+            "name": "devXive - research and development",
+            "email": "support@devxive.com",
+            "role": "Projectowner",
+            "homepage": "http://devxive.com"
+        },
+        {
+            "name": "Lahmizzar Muinela",
+            "role": "Developer",
+            "homepage": "http://twitter.com/lahmizzar"
+        }
+    ],
+    "license": [
+        "devXive - Proprietary Use License",
+        "OFL-1.1",
+        "GPLv2"
+    ]
+}
