@@ -1,0 +1,16 @@
+.coverage
+.DS_Store
+_gh_pages/*
+
+.idea/*
+.svn/*
+src/ai/*
+src/svg/*
+
+cfcache
+develop-eggs
+dist
+downloads
+eggs
+parts
+tmp
