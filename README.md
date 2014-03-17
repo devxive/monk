@@ -4,7 +4,7 @@
 Monk Appicon font is a full suite of over 300 ready to use pictographic icons/scalable vector graphics for use in webapps, websites or any other of your projects. All Icons are designed on a base of 256 x 256 Pixels.
 
 
-Please note that Monks is current in an alpha state with no documentation!
+Please note that Monk is current in an alpha state with no documentation!
 
 
 Get started at http://devxive.com/monk!
